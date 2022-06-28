@@ -6,11 +6,11 @@ The school board found evidence of academic dishonestly for ninth grade reading 
 ## Results
 
 ### District Summary
-[IMG01 - District Summary Before]
+![IMG01 - District Summary Before](https://github.com/mgochis/School_District_Analysis/blob/c1f542a883de2aabbd142cf20c1ce0031174a666/Images/IMG01%20-%20District%20Summary%20Old.png)
 [IMG02 - District Summary After]
 
-| Analysis | Avg Math Score | Avg Reading Score | % Passing Math | % Passing Reading | % Overall Passing
-| --- | --- | --- | --- | --- |
+| Analysis | Avg Math Score | Avg Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
+| --- | --- | --- | --- | --- | --- |
 | First Analysis | 79.0 | 81.9 | 75 | 86 | 65 |
 | Cleaned Analysis | 78.9 | 81.9 | 74.8 | 85.7 | 64.9 |
 | Difference | 0.1 | 0 | 0.2 | 0.3 | 0.1 |
@@ -27,7 +27,7 @@ These results show that removing the 9th grade math and reading scores did not s
 [IMG07 - Bottom Five Performing Schools]
 
 | Analysis | Avg Math Score | Avg Reading Score | % Passing Math | % Passing Reading | % Overall Passing
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | First Analysis | 83.4 | 83.8 | 93.3 | 97.3 | 90.9 |
 | Cleaned Analysis | 83.4 | 83.9 | 93.2 | 97.0 | 90.6 |
 | Difference | 0 | 0 | 0.1 | 0.3 | 0.3 |
