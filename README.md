@@ -27,16 +27,20 @@ These results show that removing the 9th grade math and reading scores did not s
 ![IMG03 - School Summary Old](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG03%20-%20School%20Summary%20Old.png)
 <sup>School Summary Old</sup>
 
+
 ![IMG04 - School Summary New](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG04%20-%20School%20Summary%20New.png)
 <sup>School Summary New</sup>
+
 
 #### Top Five Performing Schools
 
 ![IMG05 - Top Five Performing Schools Old](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG05%20-%20Top%20Five%20Performing%20Schools%20Old.png)
 <sup>Top Five Performing Schools Old</sup>
 
+
 ![IMG06 - Top Five Performing Schools New](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG06%20-%20Top%20Five%20Performing%20Schools%20New.png)
 <sup>Top Five Performing Schools New</sup>
+
 
 #### Bottom Five Performing Schools
 ![IMG07 - Bottom Five Performing Schools](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG08%20-%20Bottom%20Five%20Performing%20Schools%20New.png)
@@ -51,32 +55,39 @@ The scores at Thomas High School decreased slightly when the 9th grade stores we
 
 #### Average Math Scores by Grade and School
 
-![IMG09 - Math Scores by Grade & School Old](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG09%20-%20Math%20Scores%20by%20Grade%20&%20School%20Old.png)
+![IMG09 - Math Scores by Grade & School Old](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG09%20-%20Math%20Scores%20by%20Grade%20&%20School%20Old.png)                                                          
 <sup>Math Scores by Grade & School Old</sup>
 
-![IMG10 - Math Scores by Grade & School New](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG10%20-%20Math%20Scores%20by%20Grade%20&%20School%20New.png)
+
+![IMG10 - Math Scores by Grade & School New](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG10%20-%20Math%20Scores%20by%20Grade%20&%20School%20New.png)                                                          
 <sup>Math Scores by Grade & School New</sup>
 
-![IMG13 - Reading Scores by Grade & School Old](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG13%20-%20Reading%20Scores%20by%20Grade%20&%20School%20Old.png)
+
+![IMG13 - Reading Scores by Grade & School Old](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG13%20-%20Reading%20Scores%20by%20Grade%20&%20School%20Old.png)                                                          
 <sup>Reading Scores by Grade & School Old</sup>
 
-![IMG14 - Reading Scores by Grade & School New](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG14%20-%20Reading%20Scores%20by%20Grade%20&%20School%20New.png)
+
+![IMG14 - Reading Scores by Grade & School New](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG14%20-%20Reading%20Scores%20by%20Grade%20&%20School%20New.png)                                                          
 <sup>Reading Scores by Grade & School New</sup>
 
 
 Analyzing the data this way shows that the 9th grade scores have been removed from Thomas High School. Scores from other grades and other schools were not affected by this data removal.
 
-![IMG11 - Math Scores by Grade Old](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG11%20-%20Math%20Scores%20by%20Grade%20Old.png)
+![IMG11 - Math Scores by Grade Old](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG11%20-%20Math%20Scores%20by%20Grade%20Old.png)                                                          
 <sup>Math Scores by Grade Old</sup>
 
-![IMG12 - Math Scores by Grade New](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG12%20-%20Math%20Scores%20by%20Grade%20New.png)
+
+![IMG12 - Math Scores by Grade New](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG12%20-%20Math%20Scores%20by%20Grade%20New.png)                                                          
 <sup>Math Scores by Grade New</sup>
 
-![IMG15 - Reading Scores by Grade Old](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG15%20-%20Reading%20Scores%20by%20Grade%20Old.png)
+
+![IMG15 - Reading Scores by Grade Old](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG15%20-%20Reading%20Scores%20by%20Grade%20Old.png)                                                          
 <sup>Reading Scores by Grade Old</sup>
 
-![IMG16 - Reading Scores by Grade New](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG16%20-%20Reading%20Scores%20by%20Gread%20New.png)
+
+![IMG16 - Reading Scores by Grade New](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG16%20-%20Reading%20Scores%20by%20Gread%20New.png)                                                          
 <sup>Reading Scores by Grade New</sup>
+
 
 Comparing only the scores by grade we can see that both reading, and math dropped in the 9th grade. This was due to the removal of data from 9th grade Thomas High School. 9th Grade math scores dropped 0.2 percentage points and reading dropped 0.1 percentage points. 
 
@@ -84,10 +95,15 @@ Comparing only the scores by grade we can see that both reading, and math droppe
 
 ![IMG18 - Scores by Per Capita Spending New](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG18%20-%20Scores%20by%20Per%20Capita%20Spending%20New.png)
 <sup>Scores by Per Capita Spending</sup>
+
+
 ![IMG20 - Scores by School Size New](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG20%20-%20Scores%20by%20School%20Size%20New.png)
 <sup>Scores by School Size</sup>
+
+
 ![IMG22 - Scores by School Type New](https://github.com/mgochis/School_District_Analysis/blob/bfad70095a484bcecab8ebe64dbf41688ed241ca/Images/IMG22%20-%20Scores%20by%20School%20Type%20New.png)
 <sup>Scores by School Type</sup>
+
 
 There is no difference between the old analysis and the new analysis once the 9th grade data was removed. There were not enough data points removed to influence these results when analyzing them at this level of granulation.
 
